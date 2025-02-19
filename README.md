@@ -11,7 +11,7 @@ The **Data Team** plays a crucial role by **extracting intelligence from data**,
 
 ---
 
-📂 **Dataset Link:** [Download Here]([https://drive.google.com/your-file-link](https://drive.google.com/file/d/1hUfAxSwauSFsF4NtUOMEBArxcyQ7eW2-/view?usp=drive_link))
+📂 **Dataset Link:** [Download Here][([https://drive.google.com/your-file-link](https://drive.google.com/file/d/1hUfAxSwauSFsF4NtUOMEBArxcyQ7eW2-/view?usp=drive_link))](https://github.com/SilverJester/Delhivery-Case-Study/releases/download/v1.0.0/delhivery_data.csv)
 
 
 ## Column Profiling
